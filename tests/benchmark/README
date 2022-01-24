@@ -1,8 +1,0 @@
-To run the benchmark:
-
-    ./test_benchmark
-
-You can specify the number of iterations, events and threads by setting
-environment variables ITERS, NR_EVENTS, NR_CPUS respectively:
-
-    ITERS=10 NR_EVENTS=10000 NR_CPUS=4 ./test_benchmark
